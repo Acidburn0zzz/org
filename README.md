@@ -1,3 +1,3 @@
-# The Open Source Offsets orginization repo
+# Org TODO
 
 Project management repo for the organization
